@@ -9,11 +9,11 @@ Welcome to an exciting project where we delve into the world of cybersecurity! I
 
 Now, let's dive into our thrilling objective: measuring security metrics within an insecure environment for a pulse-pounding 24-hour period. But that's not all! We don't stop there. We unleash the power of robust security controls to fortify the environment, amplifying the excitement for another exhilarating 24 hours. Brace yourselves for the remarkable results that await as we present the following captivating metrics:
 
-SecurityEvent (Windows Event Logs)
-Syslog (Linux Event Logs)
-SecurityAlert (Log Analytics Alerts Triggered)
-SecurityIncident (Incidents created by Sentinel)
-AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
+- SecurityEvent (Windows Event Logs)
+- Syslog (Linux Event Logs)
+- SecurityAlert (Log Analytics Alerts Triggered)
+- SecurityIncident (Incidents created by Sentinel)
+- AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
