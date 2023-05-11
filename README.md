@@ -7,13 +7,17 @@ Welcome to an exciting project where we delve into the world of cybersecurity! I
 
 ## Objective
 
-Now, let's dive into our thrilling objective: measuring security metrics within an insecure environment for a pulse-pounding 24-hour period. But that's not all! We don't stop there. We unleash the power of robust security controls to fortify the environment, amplifying the excitement for another exhilarating 24 hours. Brace yourselves for the remarkable results that await as we present the following captivating metrics:
+Our primary goal is to deploy intentionally vulnerable virtual machines within Azure's robust infrastructure, strategically attracting and studying cyber attacks. Through this initiative, we gain invaluable insights into attackers' tactics and techniques, all while showcasing our proficiency in effectively responding and resolving identified issues.
+
+Now, let's focus on our primary objective: measuring security metrics within an insecure environment over a concise 24-hour period. But the excitement doesn't end there! We go a step further by implementing robust security controls to fortify the environment, leading us into another thrilling 24 hours. Get ready to be enthralled by the outstanding results that await as we present the following captivating metrics:
 
 - SecurityEvent (Windows Event Logs)
 - Syslog (Linux Event Logs)
 - SecurityAlert (Log Analytics Alerts Triggered)
 - SecurityIncident (Incidents created by Sentinel)
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
+
+Prepare to be amazed as we uncover intriguing discoveries and advancements in our quest to enhance cybersecurity. Together, let's embark on this professional journey, driven by a commitment to safeguarding the digital landscape.
 
 ## Architecture Before Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
