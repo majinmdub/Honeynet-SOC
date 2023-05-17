@@ -20,7 +20,7 @@ Now, let's focus on our primary objective: measuring security metrics within an 
 Prepare to be amazed as we uncover intriguing discoveries and advancements in our quest to enhance cybersecurity. Together, let's embark on this professional journey, driven by a commitment to safeguarding the digital landscape.
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Architecture Diagram](https://i.imgur.com/jB9ouxJ.png)
 
 ## Architecture After Hardening / Security Controls
 ![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
