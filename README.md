@@ -20,10 +20,10 @@ Now, let's focus on our primary objective: measuring security metrics within an 
 Prepare to be amazed as we uncover intriguing discoveries and advancements in our quest to enhance cybersecurity. Together, let's embark on this professional journey, driven by a commitment to safeguarding the digital landscape.
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/jB9ouxJ.png)
+![Architecture Diagram](https://i.imgur.com/7ZaD7ej.png)
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Architecture Diagram](https://i.imgur.com/To6V6XO.png)
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
